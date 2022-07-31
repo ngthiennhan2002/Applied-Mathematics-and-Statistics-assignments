@@ -12,4 +12,14 @@
 - Cell 8: Function to subtract two vectors.
 - Cell 9: Function to subtract two matrices.
 - Cell 10: Function to multiply two matrices.
-- Cell 11: Function to
+- Cell 11: Function to transpose a matrix.
+- Cell 12: Function to calculate determinant of a matrix.
+- Cell 13: Function to find inversed matrix.
+- Cell 14: Function to perform Gauss Elimination.
+- Cell 15: Function to perform QR decomposition.
+- Cell 16: Function to find exponential matrix.
+- Cell 17: Function to perform data fitting.
+- Cell 18: Function to check Markov chain (sum = 1).
+- Cell 19: Function to calculate Markov chain.
+- Cell 20: Function to perform back substitution to find solutions for stable state.
+- Cell 21: Function to perform stable state pf Markov chain.
